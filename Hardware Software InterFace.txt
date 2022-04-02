@@ -1,0 +1,18 @@
+LED1		PortC	7
+
+Button0		PortB	0
+Button1		PortB	4
+Button2		PortD	2
+
+SSD
+  EN2	PortB  1
+  EN1	PortB  2
+  DIP	PortB  3
+  A	PortA  4
+  B	PortA  5
+  C	PortA  6
+  D	PortA  7
+
+Heater		PortC  3
+Cooler		PortC  4
+UART		PortD  0
